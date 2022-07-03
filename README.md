@@ -1,2 +1,9 @@
-# projeto-glass-html5
- Projeto do curso em vídeo usando HTML/CSS/JavaScript
+Esse é o repositório do Curso em Vídeo. 
+
+Os requisitos são:
+
+- HTML básico
+- CSS básico
+- JavaScript básico
+
+🚀 Let's code! 🚀
